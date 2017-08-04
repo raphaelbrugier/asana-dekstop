@@ -1,0 +1,19 @@
+.SidebarTeamDetailsProjectsList {
+	display: none;
+}
+
+.SidebarTeamsList {
+	display: none;
+}
+
+.SidebarReports {
+    display: none;
+}
+
+.SidebarRecentsAndFavorites {
+	font-size: larger;
+}
+
+a.NavigationLink.topbar-myTasksButton {
+		font-size: x-large;
+}
